@@ -10,7 +10,7 @@ mongodump -d user -c users --gzip -o bc
 
 mongodump -d user -c --gzip -o bc
 
-![](/jpg/企业微信截图_16605535659036.png)
+![](./jpg/企业微信截图_16605535659036.png)
 
 
 备份数据恢复（开启鉴权）
